@@ -1,7 +1,7 @@
 # competitive-prog-in-python
 Ultrabullet Crash Course: Competitive Programming in Python
 
-It will run from 27th December 2020 till 30th Jan 2021. All Jupyter notebooks and .py files shall be shared over here periodically.
+It will run from 27th December 2020 till 31st March 2021. All Jupyter notebooks and .py files shall be shared over here periodically.
 
 - People keep asking whether Python is the right language to choose for picking up competitive programming.
 
